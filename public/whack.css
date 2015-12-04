@@ -1,0 +1,178 @@
+
+body {
+	background-color: green;
+	cursor: url(/img/mallet.png), auto;
+}
+button {
+	font-family:impact,charcoal,sans-serif;
+	color: #362505;
+	font-size: 45px;
+	height: 175px;
+	width: 275px;
+	background-color: #CC3300;
+	border: 3px solid #362505;
+	background-repeat: no-repeat;
+	position: absolute;
+	text-align: center;
+}
+
+.active {
+	opacity: 1.0 !important;
+}
+
+.square.pow {
+	background-image: url(/img/pow.png);
+	background-size: contain;
+}
+
+#scorebox {
+	position: absolute;
+	font-family:impact,charcoal,sans-serif;
+	margin-top: 200px;
+	margin-left: 60px;
+	font-size: 45px;
+}
+
+#stopwatch {
+	background-color: #362505;
+	border-radius: 120px;
+	padding-top: 0px;
+	height:	120px;
+	width: 190px;
+	margin-top: 50px;
+	margin-left: 925px;
+	text-align: center;
+	color: white;
+	font-size: 100px;
+	font-family: impact,charcoal,sans-serif;
+	position: absolute;
+	border: solid #CC3300 20px;
+}
+.game-over {
+	position: absolute;
+	margin-left: 500px;
+	margin-top: 500px;
+}
+
+#start:focus {
+	outline: none;
+}
+
+#gameboard {
+	height: 980px;
+	width: 980px;
+	
+}
+.square-mole {
+	position: absolute;
+	background-image: url(/img/mole.png);
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	width: 200px;
+	height: 200px;
+	opacity: .5;
+}
+.one {
+	margin-left: 475px;
+	margin-top: 75px;
+}
+.two {
+	margin-left: 700px;
+	margin-top:100px;
+}
+.three {
+	margin-left: 200px;
+	margin-top: 400px;
+}
+.four {
+	margin-left: 300px;
+	margin-top: 200px;
+}
+.five {
+	margin-left: 450px;
+	margin-top: 325px;
+}
+.six {
+	margin-left: 875px;
+	margin-top: 350px;
+}
+.seven {
+	margin-left: 675px;
+	margin-top: 300px;
+}
+.eight {
+	margin-left: 720px;
+	margin-top: 475px;
+}
+.nine {
+	margin-left: 400px;
+	margin-top: 525px
+}
+.grass {
+	background-image: url(/img/sprigs.png);
+	position: absolute;
+	background-repeat: no-repeat;
+	height: 100px;
+	width: 300px;
+	margin-left: 0px;
+	margin-top: 600px;
+}
+/*.grass-a {
+	margin-left: 500px;
+	margin-top:180px;
+}
+.grass-b {
+	margin-left: 900px;
+	margin-top:235px;
+}
+.grass-c {
+	margin-left: 75px;
+	margin-top:500px;
+}*/
+/*.grass-d {
+	margin-left: 0px;
+	margin-top:600px;
+}*/
+.grass-e {
+	margin-left: 200px;
+	margin-top:600px;
+}
+.grass-f {
+	margin-left: 400px;
+	margin-top:600px;
+}
+.grass-g {
+	margin-left: 600px;
+	margin-top:600px;
+}
+.grass-h {
+	margin-left: 800px;
+	margin-top:600px;
+}
+.grass-i {
+	margin-left:1000px;
+	margin-top:600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
