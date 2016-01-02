@@ -39,7 +39,7 @@ button {
 	padding-top: 0px;
 	height:	120px;
 	width: 190px;
-	margin-top: 50px;
+/*	margin-top: 50px;*/
 	margin-left: 925px;
 	text-align: center;
 	color: white;
@@ -70,7 +70,7 @@ button {
 	margin: 0 auto;
 	width: 200px;
 	height: 200px;
-	opacity: .5;
+	opacity: .2;
 }
 .one {
 	margin-left: 475px;

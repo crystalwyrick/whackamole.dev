@@ -2,8 +2,9 @@
 // get as many points as you can - end to game
 
 
-(function () {
+$(document).ready(function () {
 "use strict";
+
 
 	var gameInterval;	
 
@@ -50,7 +51,7 @@
     		$(moleLocation).removeClass("pow");
         }, 1000);
     };
-})();
+});
 
 
 
